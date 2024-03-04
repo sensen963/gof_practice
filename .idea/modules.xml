@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChouzetsuGoFPractice.iml" filepath="$PROJECT_DIR$/ChouzetsuGoFPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator.iml" filepath="$PROJECT_DIR$/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Iterator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Iterator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Iterator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Iterator.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template.iml" filepath="$PROJECT_DIR$/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Template.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Template.test.iml" />
