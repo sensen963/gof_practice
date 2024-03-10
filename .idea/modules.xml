@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bridge.iml" filepath="$PROJECT_DIR$/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bridge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Bridge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bridge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Bridge.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChouzetsuGoFPractice.iml" filepath="$PROJECT_DIR$/ChouzetsuGoFPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator.iml" filepath="$PROJECT_DIR$/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Iterator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Iterator.main.iml" />
