@@ -1,10 +1,6 @@
 package org.example
 
 fun main() {
-    val name = "Kotlin"
-    println("Hello, " + name + "!")
-
-    for (i in 1..5) {
-        println("i = $i")
-    }
+    var items = PrizeItemFactory.Create()
+    items.forEach({item -> println("${item.key} is Material: ${item.value.getMaterial().material}, Shape: ${item.value.getShape().shape}.")})
 }
