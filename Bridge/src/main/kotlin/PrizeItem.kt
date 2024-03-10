@@ -1,14 +1,14 @@
 package org.example
 
 abstract class PrizeMaterial{
-    abstract fun Get(): Material
+    abstract fun get(): Material
 }
 
 abstract class PrizeShape{
-    abstract fun Get(): Shape
+    abstract fun get(): Shape
 }
 
-class PrizeItem (var prizeMaterial: PrizeMaterial, var prizeShape: PrizeShape): PrizeItemInterface{
-    override fun GetMaterial(): Material = prizeMaterial.Get()
-    override fun GetShape(): Shape = prizeShape.Get()
+class PrizeItem (private var prizeMaterial: PrizeMaterial, private var prizeShape: PrizeShape): PrizeItemInterface{
+    override fun getMaterial(): Material = prizeMaterial.get()
+    override fun getShape(): Shape = prizeShape.get()
 }
